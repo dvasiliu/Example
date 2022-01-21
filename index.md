@@ -23,10 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 **Math Equations**
 <img src="https://render.githubusercontent.com/render/math?math=%5Csqrt%7B%5Csin(x%2B1)%2B3%7D">
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
