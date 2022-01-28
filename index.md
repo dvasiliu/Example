@@ -33,7 +33,7 @@ Syntax highlighted code block
 
 ## Python Code
 
-```python
+```Python
 import numpy as np
 
 x = np.sqrt(2)
