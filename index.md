@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/dvasiliu/Example/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Hello world!
+
+<img src="IMG_2469.jpeg" alt="hi" class="inline"/>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,9 +26,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+```
 
 **Math Equations**
-```
 ![Math](https://render.githubusercontent.com/render/math?math=%5Csqrt%7B%5Csin(x%2B1)%2B3%7D)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
