@@ -28,8 +28,16 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-**Math Equations**
+## **Math Equations**
 ![Math](https://render.githubusercontent.com/render/math?math=%5Csqrt%7B%5Csin(x%2B1)%2B3%7D)
+
+## Python Code
+
+```python
+import numpy as np
+
+x = np.sqrt(2)
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
