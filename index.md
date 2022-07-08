@@ -43,6 +43,16 @@ import numpy as np
 x = np.sqrt(2)
 ```
 
+## Diagrams
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
