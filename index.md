@@ -45,7 +45,7 @@ import numpy as np
 x = np.sqrt(2)
 ```
 
-Other pages: <a href="Ex3.html">diagram</a>
+Other pages: <a href="Ex3.html">Ex3</a>
 
 ## Diagrams
 
