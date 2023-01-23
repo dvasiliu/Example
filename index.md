@@ -35,10 +35,10 @@ Syntax highlighted code block
 
 **The Cauchy-Schwarz Inequality**
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\left(\frac{-b\pm\sqrt{b^2-4ac}}{2a}\right)^2) 
 
 
-![\Large \left(A+B^2\right)^2](https://latex.codecogs.com/svg.latex?\Large&space; \left(A+B^2 \right)^2 )
+
 
 
 
