@@ -33,12 +33,12 @@ Syntax highlighted code block
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-**The Cauchy-Schwarz Inequality**
+**Some Math**
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\left(\frac{-b\pm\sqrt{b^2-4ac}}{2a}\right)^2) 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;\left(\frac{-b\pm\sqrt{b^2-4ac}}{2a}\right)^2) 
 
 
-
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;\left(\frac{-b\pm\sqrt{b^2-4ac}}{2a}\right)^2) 
 
 
 
