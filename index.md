@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
-![\Large \left(A+B^2\right)](https://latex.codecogs.com/svg.latex?\Large&space;\Large \left(A+B^2\right))
+![\Large \left(A+B^2\right)](https://latex.codecogs.com/svg.latex?\Large&space;\Large \left(A+B^2 \right)^2 )
 
 
 
