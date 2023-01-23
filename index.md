@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
-![\Large \left(A+B^2\right)](https://latex.codecogs.com/svg.latex?\Large&space;\Large \left(A+B^2 \right)^2 )
+![\Large \left(A+B^2\right)^2](https://latex.codecogs.com/svg.latex?\Large&space;\Large \left(A+B^2 \right)^2 )
 
 
 
@@ -49,7 +49,7 @@ import numpy as np
 x = np.sqrt(2)
 ```
 
-Other pages: <a href="Example/Ex3.html">Ex3</a>
+Other pages: <a href="Ex3.html">Ex3</a>
 
 Test 
 
