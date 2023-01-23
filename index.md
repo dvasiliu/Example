@@ -35,7 +35,7 @@ Syntax highlighted code block
 
 **The Cauchy-Schwarz Inequality**
 
-![\Large \left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)](https://latex.codecogs.com/svg.latex?\Large&space;\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)) 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;Z=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
 
 
