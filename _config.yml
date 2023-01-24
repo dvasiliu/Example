@@ -1,5 +1,5 @@
 #theme: jekyll-theme-architect
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 # Where things are
 jekyll-spaceship:
