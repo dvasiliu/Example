@@ -94,8 +94,13 @@ graph TD;
     C[C]-->D[D];
 </div>
 
+
+<!-- mermaid.js -->
+<script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
 <div class="mermaid">
-pie
+pie;
     title Key elements in Product X
     "Calcium" : 42.96
     "Potassium" : 50.05
