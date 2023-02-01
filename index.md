@@ -1,3 +1,24 @@
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true},
+      jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
+      extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
+      TeX: {
+      extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
+      equationNumbers: {
+      autoNumber: "AMS"
+      }
+    }
+  });
+</script>
+
+# Ttitle
+
 ## Welcome to a simple example of a Github webpage
 
 You can use the [editor on GitHub](https://github.com/dvasiliu/Example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -61,15 +82,17 @@ Test all.
 
 ## Diagrams
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      A-->E;
-      E-->B;
-      B-->D;
-      C-->D;
-```
+<!-- mermaid.js -->
+<script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+<div class="mermaid">
+graph TD;
+    A[A]-->B[B];
+    A[A]-->C[C];
+    B[B]-->D[D];
+    C[C]-->D[D];
+</div>
 
 ```mermaid
 pie
