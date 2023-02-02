@@ -70,11 +70,11 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 ## Python Code
 
-```Python
+{% highlight Python%}
 import numpy as np
 
 x = np.sqrt(2)
-```
+{% endhighlight}
 
 Other pages: <a href="Ex3.html">Ex3</a>
 
