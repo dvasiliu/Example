@@ -95,11 +95,8 @@ graph TD;
 </div>
 
 
-
-
 <div class="mermaid">
-pie
-  title Key elements in Product X
+pie title Key elements in Product X
   "Calcium" : 42.96
   "Potassium" : 50.05
   "Magnesium" : 10.01
