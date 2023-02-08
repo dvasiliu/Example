@@ -1,9 +1,4 @@
 ---
-layout: post
-key: blog
-title: "Title"
-date: 02/08/2023
-tags: [Mermaid]
 mermaid: true
 ---
 
