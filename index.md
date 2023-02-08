@@ -82,8 +82,16 @@ And one example from the class <a href="In_class_Example.html">In Class Example<
 ## Diagrams
 
 <!-- mermaid.js -->
-<script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({startOnLoad:true});</script>
+<script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  $(document).ready(function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  });
+</script>
 
 <div class="mermaid">
 graph TD;
