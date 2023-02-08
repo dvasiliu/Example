@@ -77,7 +77,7 @@ x = np.sqrt(2)
 
 Other pages: <a href="Ex3.html">Ex3</a>
 
-Test all.
+And one example from the class <a href="In_class_Example.html">In Class Example</a>
 
 ## Diagrams
 
