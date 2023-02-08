@@ -102,27 +102,17 @@ graph TD;
 </div>
 
 
-<div class="mermaid">
+```mermaid
 pie title Key elements in Product X
   "Calcium" : 42.96
   "Potassium" : 50.05
   "Magnesium" : 10.01
   "Iron" :  5
-</div>
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-## TikZ
-
-<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css">
-<script src="http://tikzjax.com/v1/tikzjax.js"></script>
-
-<script type="text/tikz">
-  \begin{tikzpicture}
-    \draw (0,0) circle (1in);
-  \end{tikzpicture}
-</script>
 
 ### Jekyll Themes
 
