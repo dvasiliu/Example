@@ -1,9 +1,6 @@
 ---
 mermaid: true
-layout: post
 mathjax: true
-comments: true
-categories: github jekyll
 ---
 
 
