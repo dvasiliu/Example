@@ -18,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Hello world!
 
-<img src="Assets/IMG_2469.jpeg" width="400" height="600" alt="hi" class="inline"/>
+<img src="IMG_2469.jpeg" width="400" height="600" alt="hi" class="inline"/>
 
 ### Markdown
 
@@ -74,13 +74,13 @@ And one example from the class <a href="In_class_Example.html">In Class Example<
 
 
 
-<div class="mermaid">
+```mermaid
 graph TD;
     A[A]-->B[B];
     A[A]-->C[C];
     B[B]-->D[D];
     C[C]-->D[D];
-</div>
+```
 
 
 ```mermaid
