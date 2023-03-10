@@ -1,13 +1,14 @@
 ---
 mermaid: true
 mathjax: true
+title: Example - Github Webpage
 ---
 
 
 
-# Testing
 
-## Welcome to a simple example of a Github webpage
+
+## Using the Default Editor
 
 You can use the [editor on GitHub](https://github.com/dvasiliu/Example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
