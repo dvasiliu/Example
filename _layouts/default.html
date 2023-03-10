@@ -6,16 +6,23 @@
     <script type="text/javascript" id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
-    <!-- mermaid.js -->
-    <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script>
-      $(document).ready(function () {
-        mermaid.initialize({
-          startOnLoad:true,
-          theme: "default",
-        });
+    const config = {
+        startOnLoad:true,
+        theme: 'forest',
+        themeVariables: {
+            lineColor: "#fafafa"  
+        },
+        flowchart: {
+            useMaxWidth:false,
+            htmlLabels:true
+            }
+    };
+    mermaid.initialize(config);
+    window.onload = () => {
         window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-      });
+    }
     </script>
   </head>
   <body>
