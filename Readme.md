@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Hello world!
 
-<img src="Assets/IMG_2469.jpeg" width="400" height="600" alt="hi" class="inline"/>
+<img src="IMG_2469.jpeg" width="400" height="600" alt="hi" class="inline"/>
 
 ### Markdown
 
