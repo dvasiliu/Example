@@ -1,7 +1,7 @@
 #theme: jekyll-theme-architect
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: aqua
 
 plugins:
   - jekyll-paginate
