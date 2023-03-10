@@ -1,6 +1,6 @@
 #theme: jekyll-theme-architect
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-paginate
