@@ -6,8 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Hello world!
 
+<img src=https://i.imgur.com/IHJV88s.jpg>
 
-[Symba](https://i.imgur.com/IHJV88s.jpg)
+![Symba](https://i.imgur.com/IHJV88s.jpg)
 
 
 
