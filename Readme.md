@@ -6,7 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Hello world!
 
-<img src="IMG_2469.jpeg" width="400" height="600" alt="hi" class="inline"/>
+
+[Symba](https://i.imgur.com/IHJV88s.jpg)
+
+
 
 ### Markdown
 
