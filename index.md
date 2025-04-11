@@ -72,7 +72,7 @@ And one example from the class <a href="In_class_Example.html">In Class Example<
 
 
 ```mermaid
-graph TD;
+graph LR;
     A[A]-->B[B];
     A[A]-->C[C];
     B[B]-->D[D];
